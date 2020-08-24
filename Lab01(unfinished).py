@@ -9,3 +9,4 @@ for i in range(len(lst)):
 print(newlst)
 print(strLuckyData)
 print(strTestMessage)
+print("20200824-1459")
